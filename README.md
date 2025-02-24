@@ -1,6 +1,6 @@
 # ESP32-ThingSpeak-DHT11
 
-# ESP32-ThingSpeak-DHT11
+
 
 This project uses an ESP32 microcontroller to read temperature and humidity data from a DHT11 sensor and send the data to a ThingSpeak channel for logging and visualization.
 
